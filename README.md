@@ -8,7 +8,7 @@
 คำสั่งตามนี้
 
 ```
-git clone https://github.com/JJTChannel/freesms.git
+git clone https://github.com/SunnieHub/sms.git
 cd sms
 pip install -r req.txt
 python sms.py
@@ -28,7 +28,7 @@ pkg install python
 
 รันตัวยิงเบอร์
 ```
-git clone https://github.com/JJTChannel/freesms.git
+git clone https://github.com/SunnieHub/sms.git
 cd sms
 pip install -r req.txt
 python sms.py
