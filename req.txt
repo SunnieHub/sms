@@ -1,0 +1,5 @@
+colorama 
+httpx 
+requests
+pystyle
+numpy
